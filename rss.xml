@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Riverside Limousines]]></title>
+        <description><![CDATA[Riverside Limousines]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Dec 2015 17:04:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Baton Rouge Limo Service | Riverside Limos]]></title>
+            <description><![CDATA[<article><h1>Baton Rouge Limo Service | Riverside Limos</h1><p>"Wade, Mike was excellent. So was Ramona. We had a great time and it was made seamless by your services. I will definitely pass on a favorable referral to anyone who asks." Gia Gunerius | APi Group, Inc.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6a684c55199b9d8470fecea776fa724589c4e6d.jpg"></article>]]></description>
+            <link>http://riversidelimos.com/</link>
+            <guid isPermaLink="false">fbaacafe-ae94-421b-9a9a-f21018fbb54b</guid>
+            <pubDate>Sun, 20 Dec 2015 17:04:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
