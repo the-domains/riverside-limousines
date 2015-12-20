@@ -1,0 +1,28 @@
+name: Riverside Limousines
+favicon: null
+layout_spectrum: 0.8761106755118817
+typography_spectrum: 0.03327354742214084
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.08029047562740743
+  lightness: 0.9015736184082925
+  saturation: 0.32970277313143015
+  rhythmicContrast: 0.7983649736270308
+purpose: []
